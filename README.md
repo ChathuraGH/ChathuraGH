@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @ChathuraGH
-- 👀 I’m interested in Python/Django...
+- 👋 Hi, I’m @ChathuraGH https://github.com/ChathuraGH 👈
+- 👀 I’m interested in Python/Django, html, css, js, api development, Ui design and development +++...💓. 
 - 🌱 I’m currently learning Python/Django...
-- 💞️ I’m looking to collaborate on Django...
+- 💞️ I’m looking to collaborate on Django and +++...
 - 📫 How to reach me : - come here...
-- Interested in Python, Django, HTML, CSS, Js, Jquery, System design, WebUI design, Api design and development, Social media development.
+- Interested in Python, Django, HTML, CSS, Js, Jquery, System design, WebUI design, Api design and development, Social media development.👌. 
 
 
 
-## https://github.com/ChathuraGH
-## https://chathuragh.github.io/
+## https://github.com/ChathuraGH 👈
+## https://chathuragh.github.io/ 👈
 
 
 

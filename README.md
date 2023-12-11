@@ -5,7 +5,7 @@
 - 📫 How to reach me : - come here...
 - Interested in Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
 
-- New Updates
+# - New Updates
 - - Jekyll - 2023/12 - blog-aware static site generation in Ruby
 - -
 - -

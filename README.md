@@ -3,7 +3,16 @@
 - 🌱 I’m currently learning Python/Django...
 - 💞️ I’m looking to collaborate on Django and +++...
 - 📫 How to reach me : - come here...
-- Interested in Python, Django, HTML, CSS, Js, Jquery, System design, WebUI design, Api design and development, Social media development.👌. 
+- Interested in Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
+
+- New Updates
+- - Jekyll - 2023/12
+- -
+- -
+- -
+- -
+- -
+- -
 
 
 

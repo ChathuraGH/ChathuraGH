@@ -6,7 +6,7 @@
 - Interested in Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
 
 - New Updates
-- - Jekyll - 2023/12
+- - Jekyll - 2023/12 - blog-aware static site generation in Ruby
 - -
 - -
 - -

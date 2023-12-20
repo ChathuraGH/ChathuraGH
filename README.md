@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m @ChathuraGH https://github.com/ChathuraGH 👈
-- 👀 Web developing with Python/Django, html, css, js, api development, Ui design and development +++...💓. 
+- 👀 Web development with Python/Django, html, css, js, api development, Ui design and development +++...💓. 
 - 🌱 Learning new things always, coding or in life. 
 - 💞️ coding with python and js, and ready to Learn any new interesting technology. +++...
 - 📫 How to reach me : mcchathuer216@gmail.com ....

@@ -1,9 +1,9 @@
 # - 👋 Hi, I’m @ChathuraGH https://github.com/ChathuraGH 👈
-- 👀 I’m interested in Python/Django, html, css, js, api development, Ui design and development +++...💓. 
-- 🌱 I’m currently learning Python/Django...
-- 💞️ I’m looking to collaborate on Django and +++...
+- 👀 Web developing with Python/Django, html, css, js, api development, Ui design and development +++...💓. 
+- 🌱 Learning new things always, coding or in life. 
+- 💞️ coding with python and js, and ready to Learn any new interesting technology. +++...
 - 📫 How to reach me : mcchathuer216@gmail.com ....
-- Interested in Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
+- Working with Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
 
 # - New Updates
 - - Jekyll - 2023/12 - blog-aware static site generation in Ruby

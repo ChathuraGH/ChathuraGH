@@ -27,6 +27,11 @@
 
 [![ChathuraGH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChathuraGH&theme=github-compact)](https://github.com/ChathuraGH)
 
+[![ChathuraGH's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuraGH&theme=blue-green)](https://github.com/ChathuraGH)
+[![ChathuraGH's github trophy](https://github-profile-trophy.vercel.app/?username=ChathuraGH&row=1)](https://github.com/ChathuraGH)
+
+
+
 
 
 # - New Updates

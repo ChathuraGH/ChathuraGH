@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @ChathuraGH https://github.com/ChathuraGH 👈
 
-<img alt="Django" src="<[copied link](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)>"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
 
 
 - 👀 Web development with Python/Django, html, css, js, api development, Ui design and development +++...💓. 

@@ -24,6 +24,11 @@
 - 📫 How to reach me : mcchathuer216@gmail.com ....
 - Working with Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
 
+
+[![ChathuraGH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChathuraGH&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 # - New Updates
 - - Jekyll - 2023/12 - blog-aware static site generation in Ruby
 - -

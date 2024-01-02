@@ -36,7 +36,7 @@
 
 # - New Updates
 - - Jekyll - 2023/12 - blog-aware static site generation in Ruby
-- -
+- - Microcontroller programming - 2024/1
 - -
 - -
 - -

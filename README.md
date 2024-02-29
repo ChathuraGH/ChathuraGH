@@ -37,9 +37,9 @@
 # - New Updates
 - - Jekyll - 2023/12 - blog-aware static site generation in Ruby
 - - Microcontroller programming - 2024/1
-- -
-- -
-- -
+- - OCR UI for Tesseract.js - 2024/2
+- - Using YOLO models for image classification and object detection  - 2024/2
+- - Web UI for showing object detection results(YOLO models) on the web  - 2024/2
 - -
 - -
 

@@ -40,7 +40,7 @@
 - - OCR UI for Tesseract.js - 2024/2
 - - Using YOLO models for image classification and object detection  - 2024/2
 - - Web UI for showing object detection results(YOLO models) on the web  - 2024/2
-- -
+- - Media Metadata correction with use of [Exiftool](https://github.com/exiftool/exiftool) with guidance from [Exiftool-Commands](https://github.com/jonkeren/Exiftool-Commands) while backing up
 - -
 
 

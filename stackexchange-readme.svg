@@ -1,0 +1,11 @@
+<svg ...>
+
+<switch>
+<foreignObject x="20" y="90" width="150" height="200">
+<p xmlns="http://www.w3.org/1999/xhtml">Text goes here</p>
+</foreignObject>
+
+<text x="20" y="20">Your SVG viewer cannot display html.</text>
+</switch>
+
+</svg>

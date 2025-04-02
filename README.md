@@ -62,7 +62,7 @@
 - - Using YOLO models for image classification and object detection  - 2024/2
 - - Web UI for showing object detection results(YOLO models) on the web  - 2024/2
 - - Media Metadata correction with use of [Exiftool](https://github.com/exiftool/exiftool) with guidance from [Exiftool-Commands](https://github.com/jonkeren/Exiftool-Commands) while backing up
-- - Markdown to PDF with [Pandoc](https://pandoc.org) universal document converter.
+- - Markdown to PDF with [Pandoc](https://pandoc.org) universal document converter.  -  2025/04/01-04
 - - ![pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 

@@ -3,6 +3,10 @@
 ![masterface](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853)
 ![handshake](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)
 
+Since 2025/04/28
+
+[![Chathura madusanka profile views](https://u8views.com/api/v1/github/profiles/63940398/views/day-week-month-total-count.svg)](https://u8views.com/github/ChathuraGH)
+
 
 
 <a href='https://ko-fi.com/D1D41DEZLI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

@@ -33,11 +33,19 @@
 - Working with Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
 
 
-
-
-
-
 ![funline](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
+
+
+
+
+# - Side Projects
+- - [Modern Rating Component Variations](https://codepen.io/Chathura-m/pen/XJbGePy)
+- - [Windows Pin Lock Simulation](https://codepen.io/Chathura-m/pen/QwboOyr)
+- - [Tesseract.js WebUI-OCR](https://codepen.io/Chathura-m/pen/raNXpvx)
+
+
+
+
 
 ![fire](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 

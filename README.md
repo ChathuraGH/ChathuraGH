@@ -30,7 +30,9 @@
 - 🌱 Learning new things always, coding or in life. 
 - 💞️ coding with python and js, and ready to learn any new interesting technology. +++...
 - 📫 How to reach me : mcchathuer216@gmail.com .... ![Pikachu](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348)
-- Working with Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌. 
+- Working with Python, Django, HTML, CSS, Js, Jquery, Jekyll, System design, WebUI design, Api design and development, Social media development.👌.
+
+  
 ![funline](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 

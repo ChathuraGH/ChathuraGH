@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @ChathuraGH https://github.com/ChathuraGH 👈
+# - 👋 Hi, I’m @ChathuraGH [chathuragh.github.io](https://chathuragh.github.io) 👈
 
 ![masterface](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853)
 ![handshake](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)

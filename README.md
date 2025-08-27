@@ -52,6 +52,12 @@
 - - [videojs-skinmaster](https://github.com/ChathuraGH/videojs-skinmaster)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-skinmaster/demo.html)
 - - [videojs-effects](https://github.com/ChathuraGH/videojs-effects)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-effects/index.html)
 - - [videojs-bookmark](https://github.com/ChathuraGH/videojs-bookmark)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-bookmark/demo/index.html)
+
+- - [videojs-color-mixer](https://github.com/ChathuraGH/videojs-color-mixer)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-skinmaster/demo.html)
+- - [videojs-audio-visualizer](https://github.com/ChathuraGH/videojs-audio-visualizer)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-effects/index.html)
+- - [videojs-equalizer](https://github.com/ChathuraGH/videojs-equalizer)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-effects/index.html)
+- - [videojs-audio-support](https://github.com/ChathuraGH/videojs-audio-support)    --    [Demo](https://chathuragh.github.io/videojs-plugins/videojs-bookmark/demo/index.html)
+
 - - [videojs-screenshot](https://github.com/ChathuraGH/videojs-screenshot)
 
 
